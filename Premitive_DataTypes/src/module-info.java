@@ -1,2 +1,0 @@
-module Premitive_DataTypes {
-}

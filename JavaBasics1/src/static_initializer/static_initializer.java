@@ -1,5 +1,5 @@
 package static_initializer;
-public class main {
+public class static_initializer {
 	static
 	{
 		System.out.println("Welcome to JavaProgramming");
